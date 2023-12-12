@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-12-09T01:23:42.948Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-12-12T04:01:25.438Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-12-12T04:04:43.120Z",
+      "id": 5
+    },
+    {
+      "description": "Coca-cola",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-12-12T04:16:32.325Z",
+      "id": 6
     }
   ]
 }
